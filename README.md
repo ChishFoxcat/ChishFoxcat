@@ -1,6 +1,7 @@
 ## Hi! This is Chish👋🎉
 ###### ~~你们可以叫我七夕~~
 ### 叫我小麒就好咯（？）
+[![telegram](https://img.shields.io/badge/Telegram-@ChishSAMA-00BFFF?style=flat-square&logo=telegram)](https://t.me/ChishSAMA)
 
 ![Chish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChishFoxcat)
 
