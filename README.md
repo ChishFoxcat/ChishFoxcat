@@ -1,4 +1,6 @@
 ## Hi! This is Chish👋🎉
+###### ~~你们可以叫我七夕~~
+### 叫我小麒就好咯（？）
 
 ![Chish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChishFoxcat)
 
