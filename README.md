@@ -1,9 +1,11 @@
 ## Hi! This is Chish👋🎉
 ###### ~~你们可以叫我七夕~~
 ### 叫我小麒就好咯（？）
-[![telegram](https://img.shields.io/badge/Telegram-@ChishSAMA-00BFFF?style=flat-square&logo=telegram)](https://t.me/ChishSAMA)
+[![telegram](https://img.shields.io/badge/Telegram-@ChishSAMA-00BFFF?style=flat-square&logo=telegram)](https://t.me/ChishSAMA) 
+[![qq](https://img.shields.io/badge/TencentQQ-1770734293-EB1923?style=flat-square&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=1770734293&site=qq&menu=yes)
 
-![Chish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChishFoxcat)
+>![Chish's GitHub stats](https://chish-readme-stats.vercel.app/api?locale=cn&username=ChishFoxcat&count_private=true&show_icons=true&text_color=FFA726&icon_color=FFA726&title_color=FFA726&bg_color=0D1117&hide_border=0)
+<br>[![Supported](https://img.shields.io/badge/Supported%20by-Github%20Readme%20Stats%E2%86%92-gray.svg?colorA=424242&colorB=4CAF50&style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChishFoxcat/ChishFoxcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
