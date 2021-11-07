@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ## Hi! This is Chish👋🎉
 
@@ -16,7 +16,9 @@
 
 [![Supported](https://img.shields.io/badge/Supported%20by-Github%20Readme%20Stats%E2%86%92-gray.svg?colorA=424242&colorB=4CAF50&style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</div>
+
+<br>
 
 ## ⚠️**郑重声明**
 - 我项目仅用于学习交流，请在24小时内删除项目，发生各种问题与我无关
