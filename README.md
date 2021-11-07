@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi! This is Chish👋🎉</h1>
+<h1>👋Hi! This is Chish🎉</h1>
 
 <img src="https://chish-readme-stats.vercel.app/api?locale=cn&username=ChishFoxcat&count_private=true&show_icons=true&text_color=FFA726&icon_color=FFA726&title_color=FFA726&bg_color=0D1117&hide_border=0" align="right"></img>
 
@@ -12,16 +12,18 @@
 [![telegram](https://img.shields.io/badge/Telegram-@ChishSAMA-00BFFF?style=flat-square&logo=telegram)](https://t.me/ChishSAMA) 
 [![qq](https://img.shields.io/badge/TencentQQ-1770734293-EB1923?style=flat-square&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=1770734293&site=qq&menu=yes)
 
-### 欢迎参阅我的项目，以及感谢对我项目的支持！😘
-#### 如果喜欢请一定一定要点击那个小星星，这对我有很大的鼓励！🥺
+<br>
+<br>
+<br>
 
-</div>
+### **欢迎参阅我的项目，以及感谢对我项目的支持！😘**
+#### 如果喜欢请一定一定要点击那个小星星，这对我有很大的鼓励！🥺
 
 <br>
 
 [![Supported](https://img.shields.io/badge/Supported%20by-Github%20Readme%20Stats%E2%86%92-gray.svg?colorA=424242&colorB=4CAF50&style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 <br>
 
 ## ⚠️**免责声明**
