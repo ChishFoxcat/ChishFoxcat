@@ -1,9 +1,12 @@
 <div align="center">
 
-## Hi! This is Chish👋🎉
+<h1>Hi! This is Chish👋🎉</h1>
 
 ###### ~~你们可以叫我七夕~~
 ### 叫我小麒就好咯（？）
+
+<br>
+
 [![telegram](https://img.shields.io/badge/Telegram-@ChishSAMA-00BFFF?style=flat-square&logo=telegram)](https://t.me/ChishSAMA) 
 [![qq](https://img.shields.io/badge/TencentQQ-1770734293-EB1923?style=flat-square&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=1770734293&site=qq&menu=yes)
 
