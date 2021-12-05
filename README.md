@@ -19,8 +19,6 @@
 <br>
 <br>
 
-<img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/76027184?v=4">
-
 <div align="center">
 
 ### **欢迎参阅我的项目，以及感谢对我项目的支持！😘**
@@ -30,7 +28,6 @@
 
 [![Supported](https://img.shields.io/badge/Supported%20by-Github%20Readme%20Stats%E2%86%92-gray.svg?colorA=424242&colorB=4CAF50&style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<br>
 <br>
 
 ## 📍My Projects
