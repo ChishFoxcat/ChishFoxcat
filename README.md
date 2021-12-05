@@ -18,11 +18,9 @@
 
 <br>
 <br>
-<br>
 
-<img align="left" style="height:auto;border-radius:100%;margin-left:55px;" alt="" width="150" height="150"  class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/76027184?v=4">
+<img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/76027184?v=4">
 
-<br>
 <div align="center">
 
 ### **欢迎参阅我的项目，以及感谢对我项目的支持！😘**
