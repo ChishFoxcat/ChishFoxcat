@@ -2,13 +2,11 @@
 <img width="50%" src="./assets/chish.png">
 </div>
 
-<img src="https://chish-readme-stats.vercel.app/api?locale=cn&username=ChishFoxcat&count_private=true&show_icons=true&text_color=FFA726&icon_color=FFA726&title_color=FFA726&bg_color=0D1117&hide_border=0" align="left"></img>
+<img src="https://chish-readme-stats.vercel.app/api?locale=cn&username=ChishFoxcat&count_private=true&show_icons=true&text_color=FFA726&icon_color=FFA726&title_color=FFA726&bg_color=0D1117&hide_border=0" align="right" width="50%" height="50%"></img>
 
 # 👋Hi! This is Chish🎉
 You can call me __Chish__ or __Xiao Qi__.<br>
 **你可以叫我小麒。很高兴认识你！**
-
-<br>
 
 ## ❤️ Like
 - 🦊 I Love Furry
@@ -16,7 +14,7 @@ You can call me __Chish__ or __Xiao Qi__.<br>
 
 > The biggest dream is __Travel around__ and __Eat delicious food__ from all over the world with My Lover. 
 
-<img align="right" width="186" height="300" src="./assets/chish_pic.png"/>
+<img align="right" width="248" height="400" src="./assets/chish_pic.png"/>
 
 ## 📱Contact Me
 [![Static Badge](https://img.shields.io/badge/%40ChishSAMA-%2326A5E4?logo=telegram&label=Telegram)](https://t.me/CoryChish)
@@ -27,9 +25,6 @@ You can call me __Chish__ or __Xiao Qi__.<br>
 - YCGY健康打卡单人认证，[服务器版](https://github.com/ChishFoxcat/YcteiHealth)
 - [YCGY 竞赛项目](https://github.com/ChishFoxcat/YCGYMatch)
 - ~~高性能远程桌面~~（bushi）[带GPU的远程桌面](https://github.com/ChishFoxcat/NVIDIA-SHILED_Frp)
-
-<br>
-<br>
 
 ## ⚠️ **免责声明**
 - 所有项目仅供于学习交流，采用或利用后责任自负
