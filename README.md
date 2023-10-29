@@ -30,6 +30,7 @@ You can call me __Chish__ or __Xiao Qi__.<br>
 - 所有项目仅供于学习交流，采用或利用后责任自负
 - 所有项目均有相应协议或开源规则，转发还请标注我的名字
 - 不保证所有内容都符合所有人的要求
+> 排版形式可参考，但是所有图片禁止盗用
 
 <!--
 **ChishFoxcat/ChishFoxcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
