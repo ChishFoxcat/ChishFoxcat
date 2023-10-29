@@ -19,6 +19,8 @@ You can call me __Chish__ or __Xiao Qi__.<br>
 ## 📱Contact Me
 [![Static Badge](https://img.shields.io/badge/%40ChishSAMA-%2326A5E4?logo=telegram&label=Telegram)](https://t.me/CoryChish)
 
+我的私有Git仓库 -> https://git.chish.cn/ChishFoxcat
+
 ## 📍My Projects
 
 - [Microsoft 语音引擎](https://github.com/ChishFoxcat/Microsoft-TTS)
