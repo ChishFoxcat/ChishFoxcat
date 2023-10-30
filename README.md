@@ -4,7 +4,7 @@
 
 <img src="https://chish-readme-stats.vercel.app/api?locale=cn&username=ChishFoxcat&count_private=true&show_icons=true&text_color=FFA726&icon_color=FFA726&title_color=FFA726&bg_color=0D1117&hide_border=0" align="right" width="50%" height="50%"></img>
 
-# 👋Hi! This is Chish🎉
+## 👋Hi! This is Chish🎉
 You can call me __Chish__ or __Xiao Qi__.<br>
 **你可以叫我小麒。很高兴认识你！**
 
@@ -17,7 +17,7 @@ You can call me __Chish__ or __Xiao Qi__.<br>
 <img align="right" width="248" height="400" src="./assets/chish_pic.png"/>
 
 ## 📱Contact Me
-[![Static Badge](https://img.shields.io/badge/%40ChishSAMA-%2326A5E4?logo=telegram&label=Telegram)](https://t.me/CoryChish)
+[![Static Badge](https://img.shields.io/badge/%40CoryChish-%2326A5E4?logo=telegram&label=Telegram)](https://t.me/CoryChish)
 
 我的私有Git仓库 -> https://git.chish.cn/ChishFoxcat
 
