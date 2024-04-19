@@ -23,10 +23,8 @@ You can call me __Chish__ or __Xiao Qi__.<br>
 
 ## 📍My Projects
 
+> 主开源发布 -> https://github.com/ChishLab
 - [Microsoft 语音引擎](https://github.com/ChishFoxcat/Microsoft-TTS)
-- YCGY健康打卡单人认证，[服务器版](https://github.com/ChishFoxcat/YcteiHealth)
-- [YCGY 竞赛项目](https://github.com/ChishFoxcat/YCGYMatch)
-- ~~高性能远程桌面~~（bushi）[带GPU的远程桌面](https://github.com/ChishFoxcat/NVIDIA-SHILED_Frp)
 
 ## ⚠️ **免责声明**
 - 所有项目仅供于学习交流，采用或利用后责任自负
